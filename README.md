@@ -1,4 +1,4 @@
-# Music-Mental-Health-Survey
+# Music Mental Health Survey
 
 Please download my Artical to read full project analysis 
 
