@@ -1,6 +1,6 @@
 Data Exploration into PostgreSQL
 
-In order to import data to PostgreSQL I created a table and then imported the data from the csv file into that table.
+-- In order to import data to PostgreSQL I created a table and then imported the data from the csv file into that table.
 
 create table mental_hs (
 	   id_num INT,
