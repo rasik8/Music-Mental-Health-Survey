@@ -5,3 +5,6 @@ This was my first personal data analysis project. With the vast amount of data s
 Please download my Artical to read full project analysis 
 
 [Tableau dasboard](https://public.tableau.com/app/profile/rasiklal.limbani/viz/MentalHealth_16765777903250/Dashboard1)
+
+
+Tools: Excel | SQL | Tableau
