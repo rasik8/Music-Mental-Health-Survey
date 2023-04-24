@@ -88,6 +88,11 @@ This bar graph above represents music listening period for all respondents which
 
 After running the above SQL query, I visualised the same data result in tableau. I was able to establish that spotify, you tube music and apple music are popular streaming service for age group 15 – 40. Pandora streaming is popular among the older age group.
 
+**5. What effect music has on individuals Mental Health condition?**
+
+![Q5](https://user-images.githubusercontent.com/127439365/234044943-8cae0aa3-6d3c-43f8-b336-a933e0478a3d.png)
+
+
 
 
 
