@@ -111,7 +111,11 @@ This represents the age of all respondents and what effect music has on their me
 
 ![Q7](https://user-images.githubusercontent.com/127439365/234047194-093c5690-1bfd-4550-ada2-2201be13b904.png)
 
+![Screenshot 7](https://user-images.githubusercontent.com/127439365/234047668-410f3468-0256-46ac-b69c-3ca78059bc7f.png)
+
 ![viz7](https://user-images.githubusercontent.com/127439365/234047475-ec315b14-b5d4-43bf-a505-dc17bfe5bdc7.png)
+
+This result represents respondents’ favourite music taste and the average mental health rating within each category. All respondents have an anxiety rating above 4. Folk, hip hop, k pop, lofi, pop and rock listeners have a rating above 6. Depression came as the highest rating among lofi listeners.
 
 
 
