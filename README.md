@@ -82,6 +82,11 @@ This bar graph above represents music listening period for all respondents which
 
 ![Q4](https://user-images.githubusercontent.com/127439365/234015125-57c771d2-d7a3-4f9c-8a32-84579e22f1dc.png)
 
+<p align="left" width="100%">
+    <img width="45%" src="https://user-images.githubusercontent.com/127439365/234016207-3f4c13b9-afc5-4347-8b2c-b8629a4cb954.png">
+</p>
+
+
 
 
 
