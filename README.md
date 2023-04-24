@@ -117,6 +117,22 @@ This represents the age of all respondents and what effect music has on their me
 
 This result represents respondents’ favourite music taste and the average mental health rating within each category. All respondents have an anxiety rating above 4. Folk, hip hop, k pop, lofi, pop and rock listeners have a rating above 6. Depression came as the highest rating among lofi listeners.
 
+**8. Negative effects due to listening to music**
+
+![Q8](https://user-images.githubusercontent.com/127439365/234052275-5a2e7921-0f82-431e-a6df-51e96998be34.png)
+
+![Screenshot 8](https://user-images.githubusercontent.com/127439365/234052342-f0d2bffc-896f-4121-bf6e-dec0a84e2a03.png)
+
+We know that music benefits people’s mental health. This was indicated in a pervious result. Here I wanted to identify the participants who have worsening symptoms. It seems that those who have worsening mental health symptoms, their favourite genres are rock, pop, video game music, rap and classical. Although theses are few numbers due to the size of the survey, it would be interesting to investigate what causes for their mental health to deteriorate while listening to music.
+
+**Conclusion**
+
+Music seems to have a positive correlation to improving mental health symptoms. This study was limited due to the number of participants within the survey. The survey used to collect data was posted in various forums, discord servers and social media platforms. Posters and "business cards" were also used to advertise the form in libraries, parks, and other public locations. The age diversity from the survey makes sense as younger age groups are more likely to use online platforms. A larger survey pool which attracts more adults over 25 would be needed for better insights over the age spectrum. 
+
+Data Identifying where respondents live and their gender would make more interesting insights i.e., correlations between gender of the person and mental health condition. Also, dose people’s state or postcode influence the type of music they listen to.
+
+
+
 
 
 
