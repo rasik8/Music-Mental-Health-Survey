@@ -24,6 +24,12 @@ After analysing survey data, I explored what insights I could derive. Here are m
 6. What effect music has on individuals Mental Health condition, according to age of respondent?
 7. What are the average mental health ratings filtered by favourite music genre?
 
+## Data Exploration into PostgreSQL
+
+In order to import data to PostgreSQL I created a table and then imported the data from the csv file into that table.
+
+
+
 
 
 
