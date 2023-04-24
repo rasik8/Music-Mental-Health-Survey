@@ -80,6 +80,9 @@ This bar graph above represents music listening period for all respondents which
 
 **4.Investigate which streaming services is used according to age of respondent?**
 
+![Q4](https://user-images.githubusercontent.com/127439365/234015125-57c771d2-d7a3-4f9c-8a32-84579e22f1dc.png)
+
+
 
 
 
