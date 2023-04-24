@@ -92,6 +92,22 @@ After running the above SQL query, I visualised the same data result in tableau.
 
 ![Q5](https://user-images.githubusercontent.com/127439365/234044943-8cae0aa3-6d3c-43f8-b336-a933e0478a3d.png)
 
+![Screenshot 5](https://user-images.githubusercontent.com/127439365/234045241-c92dc378-d9cb-416b-8a92-897715e40704.png)
+
+![viz5](https://user-images.githubusercontent.com/127439365/234045357-c95e966a-60b3-465c-a50d-78713c9e6cf0.png)
+
+75% of people indicated that their mental conditions improved with music, while 3% reported that their mental conditions worsened with music.
+
+**6. What effect music has on individuals Mental Health condition, according to age of respondent?**
+
+![Q6](https://user-images.githubusercontent.com/127439365/234045666-9d47959d-39e2-4755-8710-7fc6ba292913.png)
+
+![viz6](https://user-images.githubusercontent.com/127439365/234045963-77716d1d-48f6-41ca-a8a3-630fbdee1fdc.png)
+
+After running the above SQL query, I visualised the same data result in tableau.
+This represents the age of all respondents and what effect music has on their mental health. Generally, all respondents show music improves their mental health states. The majority of those surveyed were between 16-24. A respondent age 89 was an interesting outlier.
+
+
 
 
 
