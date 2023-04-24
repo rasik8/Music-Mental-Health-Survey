@@ -70,6 +70,16 @@ Everyone has their own tastes when it comes to music. In this survey rock music 
 
 ![Q3](https://user-images.githubusercontent.com/127439365/234012203-299fbeef-28bb-4a2f-9b3a-504d2bffd317.png)
 
+<p align="left" width="100%">
+    <img width="35%" src="https://user-images.githubusercontent.com/127439365/234013679-f40ca205-44f4-4b6c-8f0f-b4dbce9f6f41.png">
+</p>
+
+![viz3](https://user-images.githubusercontent.com/127439365/234014052-d1a9461e-83f2-4b3e-8f9e-8b919f9f55c5.png)
+
+This bar graph above represents music listening period for all respondents which is further filtered based on usage type. Between 1-6 hours is the most popular listening time, which also equates to while working. After this threshold, the number of respondents that listen to music 5+ hours a day decreases almost exponentially. There were 3 respondents that claim to listen to music 24 hours a day. The above SQL result is just an extract from the original output of the query.
+
+**4.Investigate which streaming services is used according to age of respondent?**
+
 
 
 
