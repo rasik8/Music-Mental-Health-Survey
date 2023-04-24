@@ -16,13 +16,13 @@ The data came in a csv file. After studying the data, I replaced all Null values
 
 After analysing survey data, I explored what insights I could derive. Here are my questions to answer:
 
-- **1. What is the most popular streaming service?
-- **2. What is the most popular music genre?
-- **3. What is the most popular listening Time?
-- **4. Investigate which streaming services is used according to age of respondent?
-- **5. What effect music has on individuals Mental Health condition?
-- **6. What effect music has on individuals Mental Health condition, according to age of respondent?
-- **7. What are the average mental health ratings filtered by favourite music genre?
+** 1. What is the most popular streaming service?**
+** 2. What is the most popular music genre?**
+** 3. What is the most popular listening Time?**
+** 4. Investigate which streaming services is used according to age of respondent?**
+** 5. What effect music has on individuals Mental Health condition?**
+** 6. What effect music has on individuals Mental Health condition, according to age of respondent?**
+** 7. What are the average mental health ratings filtered by favourite music genre?**
 
 ## Data Exploration into PostgreSQL
 
