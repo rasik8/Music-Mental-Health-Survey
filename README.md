@@ -107,6 +107,14 @@ After running the above SQL query, I visualised the same data result in tableau.
 After running the above SQL query, I visualised the same data result in tableau.
 This represents the age of all respondents and what effect music has on their mental health. Generally, all respondents show music improves their mental health states. The majority of those surveyed were between 16-24. A respondent age 89 was an interesting outlier.
 
+**7. What are the average mental health ratings filtered by favourite music genre?**
+
+![Q7](https://user-images.githubusercontent.com/127439365/234047194-093c5690-1bfd-4550-ada2-2201be13b904.png)
+
+![viz7](https://user-images.githubusercontent.com/127439365/234047475-ec315b14-b5d4-43bf-a505-dc17bfe5bdc7.png)
+
+
+
 
 
 
