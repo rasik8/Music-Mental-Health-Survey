@@ -28,9 +28,27 @@ After analysing survey data, I explored what insights I could derive. Here are m
 
 In order to import data to PostgreSQL I created a table and then imported the data from the csv file into that table.
 
-<p align="center" width="100%">
+<p align="left" width="100%">
     <img width="55%" src="https://user-images.githubusercontent.com/127439365/233997237-7641e87d-a2d8-4571-80dc-fdccee49175a.png">
 </p>
+
+## SQL Analysis and Tableau Visualisation
+
+1. What is the most popular streaming service?
+
+<p align="left" width="100%">
+    <img width="60%" src="https://user-images.githubusercontent.com/127439365/233998941-d3025be6-6802-47bb-8c0d-b0d2e446c0e2.png">
+</p>
+
+![Screenshot 1](https://user-images.githubusercontent.com/127439365/233998999-3ad98ffd-ff07-424e-b38b-c89f60768972.png)
+
+![viz1](https://user-images.githubusercontent.com/127439365/233999045-bbcdfe22-80dc-4b9f-a543-288ac7667a6c.png)
+
+Spotify is ranked as the most popular streaming service accounting for 458 (62%) of all respondents. This was followed by you tube music streaming.
+
+
+
+
 
 
 
