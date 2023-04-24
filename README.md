@@ -28,6 +28,11 @@ After analysing survey data, I explored what insights I could derive. Here are m
 
 In order to import data to PostgreSQL I created a table and then imported the data from the csv file into that table.
 
+<p align="center" width="100%">
+    <img width="55%" src="https://user-images.githubusercontent.com/127439365/233997237-7641e87d-a2d8-4571-80dc-fdccee49175a.png">
+</p>
+
+
 
 
 
