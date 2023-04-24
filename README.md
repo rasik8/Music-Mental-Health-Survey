@@ -136,3 +136,7 @@ I thank you for reading my article and welcome any feedback! Please visit my  [T
 <p align="center" width="100%">
     <img width="65%" src="https://user-images.githubusercontent.com/127439365/234055023-0f1c1a6b-0672-4ce8-a822-a3f36448d365.png">
 </p>
+
+Data collection managed by Catherine Rasgaitis via Google survey form
+Data download from Kaggle.com
+
