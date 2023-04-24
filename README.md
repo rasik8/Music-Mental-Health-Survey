@@ -16,13 +16,19 @@ The data came in a csv file. After studying the data, I replaced all Null values
 
 After analysing survey data, I explored what insights I could derive. Here are my questions to answer:
 
-- **1. What is the most popular streaming service?**
-- **2. What is the most popular music genre?**
-- **3. What is the most popular listening Time?**
-- **4. Investigate which streaming services is used according to age of respondent?**
-- **5. What effect music has on individuals Mental Health condition?**
-- **6. What effect music has on individuals Mental Health condition, according to age of respondent?**
-- **7. What are the average mental health ratings filtered by favourite music genre?**
+**1. What is the most popular streaming service?**
+
+**2. What is the most popular music genre?**
+
+**3. What is the most popular listening Time?**
+
+**4. Investigate which streaming services is used according to age of respondent?**
+
+**5. What effect music has on individuals Mental Health condition?**
+
+**6. What effect music has on individuals Mental Health condition, according to age of respondent?**
+
+**7. What are the average mental health ratings filtered by favourite music genre?**
 
 ## Data Exploration into PostgreSQL
 
@@ -34,7 +40,7 @@ In order to import data to PostgreSQL I created a table and then imported the da
 
 ## SQL Analysis and Tableau Visualisation
 
-1. What is the most popular streaming service?
+**1. What is the most popular streaming service?**
 
 <p align="left" width="100%">
     <img width="60%" src="https://user-images.githubusercontent.com/127439365/233998941-d3025be6-6802-47bb-8c0d-b0d2e446c0e2.png">
@@ -46,7 +52,7 @@ In order to import data to PostgreSQL I created a table and then imported the da
 
 Spotify is ranked as the most popular streaming service accounting for 458 (62%) of all respondents. This was followed by you tube music streaming.
 
-2. What is the most popular music genre?
+**2. What is the most popular music genre?**
 
 <p align="left" width="100%">
     <img width="60%" src="https://user-images.githubusercontent.com/127439365/234002230-7241cfb6-6512-45e8-b653-162671bc975a.png">
