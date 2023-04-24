@@ -189,9 +189,17 @@ Data Identifying where respondents live and their gender would make more interes
 
 I thank you for reading my article and welcome any feedback! Please visit my  [Tableau dasboard](https://public.tableau.com/app/profile/rasiklal.limbani/viz/MentalHealth_16765777903250/Dashboard1) platform to fully interact with the final dashboard for a more interactive experience. Please feel free to connect and chat with me on [linkedin](https://www.linkedin.com/in/rasiklal-limbani-004931163/).
 
+<br />
+
+<br />
+
 <p align="center" width="100%">
     <img width="65%" src="https://user-images.githubusercontent.com/127439365/234055023-0f1c1a6b-0672-4ce8-a822-a3f36448d365.png">
 </p>
+
+<br />
+
+<br />
 
 Data collection managed by Catherine Rasgaitis via Google survey form
 
