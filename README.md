@@ -138,5 +138,6 @@ I thank you for reading my article and welcome any feedback! Please visit my  [T
 </p>
 
 Data collection managed by Catherine Rasgaitis via Google survey form
+
 Data download from Kaggle.com
 
