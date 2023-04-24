@@ -66,6 +66,13 @@ Spotify is ranked as the most popular streaming service accounting for 458 (62%)
 
 Everyone has their own tastes when it comes to music. In this survey rock music is ranked as the most popular genre selected and has the most diverse range of respondents. This is followed by pop and metal music listeners.
 
+**3. What is the most popular listening Time?**
+
+![Q3](https://user-images.githubusercontent.com/127439365/234012203-299fbeef-28bb-4a2f-9b3a-504d2bffd317.png)
+
+
+
+
 
 
 
