@@ -8,9 +8,13 @@ This was my first personal data analysis project. With the vast amount of data s
 
 The data set that I used for this analysis was downloaded from Kaggle, it comprises of a survey result from 763 Respondents. Each individual was asked various questions regarding their music listening habits and their self-reported mental health states. The survey used to collect data was posted in various forums, discord servers and social media platforms. Posters and "business cards" were also used to advertise the form in libraries, parks, and other public locations.
 
+<br />
+
 ## Data Cleaning
 
 The data came in a csv file. After studying the data, I replaced all Null values to 0. Many questions were left blank by respondents. In order to sustain data accuracy, I replaced these blanks with ‘No Comment’. I also removed irrelevant columns that were not necessary in the analysis. The cleaning process was completed in excel.
+
+<br />
 
 ## Data Investigation
 
@@ -30,6 +34,8 @@ After analysing survey data, I explored what insights I could derive. Here are m
 
 **7. What are the average mental health ratings filtered by favourite music genre?**
 
+<br />
+
 ## Data Exploration into PostgreSQL
 
 In order to import data to PostgreSQL I created a table and then imported the data from the csv file into that table.
@@ -37,6 +43,8 @@ In order to import data to PostgreSQL I created a table and then imported the da
 <p align="left" width="100%">
     <img width="55%" src="https://user-images.githubusercontent.com/127439365/233997237-7641e87d-a2d8-4571-80dc-fdccee49175a.png">
 </p>
+
+<br />
 
 ## SQL Analysis and Tableau Visualisation
 
@@ -52,6 +60,12 @@ In order to import data to PostgreSQL I created a table and then imported the da
 
 Spotify is ranked as the most popular streaming service accounting for 458 (62%) of all respondents. This was followed by you tube music streaming.
 
+<br />
+
+<br />
+
+<br />
+
 **2. What is the most popular music genre?**
 
 <p align="left" width="100%">
@@ -66,6 +80,12 @@ Spotify is ranked as the most popular streaming service accounting for 458 (62%)
 
 Everyone has their own tastes when it comes to music. In this survey rock music is ranked as the most popular genre selected and has the most diverse range of respondents. This is followed by pop and metal music listeners.
 
+<br />
+
+<br />
+
+<br />
+
 **3. What is the most popular listening Time?**
 
 ![Q3](https://user-images.githubusercontent.com/127439365/234012203-299fbeef-28bb-4a2f-9b3a-504d2bffd317.png)
@@ -78,6 +98,12 @@ Everyone has their own tastes when it comes to music. In this survey rock music 
 
 This bar graph above represents music listening period for all respondents which is further filtered based on usage type. Between 1-6 hours is the most popular listening time, which also equates to while working. After this threshold, the number of respondents that listen to music 5+ hours a day decreases almost exponentially. There were 3 respondents that claim to listen to music 24 hours a day. The above SQL result is just an extract from the original output of the query.
 
+<br />
+
+<br />
+
+<br />
+
 **4. Investigate which streaming services is used according to age of respondent?**
 
 ![Q4](https://user-images.githubusercontent.com/127439365/234015125-57c771d2-d7a3-4f9c-8a32-84579e22f1dc.png)
@@ -87,6 +113,12 @@ This bar graph above represents music listening period for all respondents which
 </p>
 
 After running the above SQL query, I visualised the same data result in tableau. I was able to establish that spotify, you tube music and apple music are popular streaming service for age group 15 – 40. Pandora streaming is popular among the older age group.
+
+<br />
+
+<br />
+
+<br />
 
 **5. What effect music has on individuals Mental Health condition?**
 
@@ -98,6 +130,12 @@ After running the above SQL query, I visualised the same data result in tableau.
 
 75% of people indicated that their mental conditions improved with music, while 3% reported that their mental conditions worsened with music.
 
+<br />
+
+<br />
+
+<br />
+
 **6. What effect music has on individuals Mental Health condition, according to age of respondent?**
 
 ![Q6](https://user-images.githubusercontent.com/127439365/234045666-9d47959d-39e2-4755-8710-7fc6ba292913.png)
@@ -106,6 +144,12 @@ After running the above SQL query, I visualised the same data result in tableau.
 
 After running the above SQL query, I visualised the same data result in tableau.
 This represents the age of all respondents and what effect music has on their mental health. Generally, all respondents show music improves their mental health states. The majority of those surveyed were between 16-24. A respondent age 89 was an interesting outlier.
+
+<br />
+
+<br />
+
+<br />
 
 **7. What are the average mental health ratings filtered by favourite music genre?**
 
@@ -117,6 +161,12 @@ This represents the age of all respondents and what effect music has on their me
 
 This result represents respondents’ favourite music taste and the average mental health rating within each category. All respondents have an anxiety rating above 4. Folk, hip hop, k pop, lofi, pop and rock listeners have a rating above 6. Depression came as the highest rating among lofi listeners.
 
+<br />
+
+<br />
+
+<br />
+
 **8. Negative effects due to listening to music**
 
 ![Q8](https://user-images.githubusercontent.com/127439365/234052275-5a2e7921-0f82-431e-a6df-51e96998be34.png)
@@ -124,6 +174,12 @@ This result represents respondents’ favourite music taste and the average ment
 ![Screenshot 8](https://user-images.githubusercontent.com/127439365/234052342-f0d2bffc-896f-4121-bf6e-dec0a84e2a03.png)
 
 We know that music benefits people’s mental health. This was indicated in a pervious result. Here I wanted to identify the participants who have worsening symptoms. It seems that those who have worsening mental health symptoms, their favourite genres are rock, pop, video game music, rap and classical. Although theses are few numbers due to the size of the survey, it would be interesting to investigate what causes for their mental health to deteriorate while listening to music.
+
+<br />
+
+<br />
+
+<br />
 
 **Conclusion**
 
