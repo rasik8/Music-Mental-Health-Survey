@@ -46,10 +46,19 @@ In order to import data to PostgreSQL I created a table and then imported the da
 
 Spotify is ranked as the most popular streaming service accounting for 458 (62%) of all respondents. This was followed by you tube music streaming.
 
+2. What is the most popular music genre?
 
+<p align="left" width="100%">
+    <img width="60%" src="https://user-images.githubusercontent.com/127439365/234002230-7241cfb6-6512-45e8-b653-162671bc975a.png">
+</p>
 
+<p align="left" width="100%">
+    <img width="25%" src="https://user-images.githubusercontent.com/127439365/234002796-286ba33e-8dc7-4c93-b8d6-0d4210b1c984.png">
+</p>
 
+![viz2](https://user-images.githubusercontent.com/127439365/234004951-17e8fbe7-11b9-446b-adeb-20fc942ba864.png)
 
+Everyone has their own tastes when it comes to music. In this survey rock music is ranked as the most popular genre selected and has the most diverse range of respondents. This is followed by pop and metal music listeners.
 
 
 
