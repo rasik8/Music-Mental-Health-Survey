@@ -147,7 +147,4 @@ Data Identifying where respondents live and their gender would make more interes
 
 
 
-
-Please download my Artical to read full project analysis 
-
-Click Here for: [Tableau dasboard](https://public.tableau.com/app/profile/rasiklal.limbani/viz/MentalHealth_16765777903250/Dashboard1)
+I thank you for reading my article and welcome any feedback! Please visit my  [Tableau dasboard](https://public.tableau.com/app/profile/rasiklal.limbani/viz/MentalHealth_16765777903250/Dashboard1)
