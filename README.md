@@ -1,4 +1,4 @@
-# Music Mental Health Survey
+# Music & Mental Health Survey
 
 Tools: Excel | SQL | Tableau
 
